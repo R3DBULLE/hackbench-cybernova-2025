@@ -1,5 +1,5 @@
 # Tester la recherche (curl)
-curl -X POST -d "q=alice" https://7505929c-16c6-412d-b9ff-c31d509c7ba2-00-2axotlcvlr4o.janeway.replit.dev//search
+curl -X POST -d "q=alice" https://b452551e-a583-4f7f-9c74-32ac1b2fd606-00-105vtajd5ey1c.spock.replit.dev//search
 
 # Tester admin token
 curl "https://7505929c-16c6-412d-b9ff-c31d509c7ba2-00-2axotlcvlr4o.janeway.replit.dev//admin?token=admintoken123"
