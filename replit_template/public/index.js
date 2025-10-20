@@ -62,4 +62,3 @@ function escapeHtml(str) {
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Intranet demo listening on port ${PORT}`));
-outerWidth
