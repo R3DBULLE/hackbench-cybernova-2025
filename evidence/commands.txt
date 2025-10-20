@@ -1,0 +1,8 @@
+# Tester la recherche (curl)
+curl -X POST -d "q=alice" https://7505929c-16c6-412d-b9ff-c31d509c7ba2-00-2axotlcvlr4o.janeway.replit.dev//search
+
+# Tester admin token
+curl "https://7505929c-16c6-412d-b9ff-c31d509c7ba2-00-2axotlcvlr4o.janeway.replit.dev//admin?token=admintoken123"
+
+# Télécharger le flag
+curl -O https://7505929c-16c6-412d-b9ff-c31d509c7ba2-00-2axotlcvlr4o.janeway.replit.dev//flag
