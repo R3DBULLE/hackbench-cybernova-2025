@@ -18,7 +18,6 @@ app.get('/', (req, res) => {
       <input name="q" placeholder="Nom ou partie du nom" />
       <button>Search</button>
     </form>
-    <p>Endpoints utiles : <code>/search</code> (POST), <code>/admin</code> (protected), <code>/flag</code> (secret)</p>
   `);
 });
 
