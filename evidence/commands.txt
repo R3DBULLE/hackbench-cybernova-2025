@@ -1,13 +1,8 @@
 curl https://b452551e-a583-4f7f-9c74-32ac1b2fd606-00-105vtajd5ey1c.spock.replit.dev
-
 Envoie une requête GET sur la racine du site et affiche le corps de la réponse (HTML) dans ton terminal.
 
-
-
 curl https://b452551e-a583-4f7f-9c74-32ac1b2fd606-00-105vtajd5ey1c.spock.replit.dev/flag
-
 Envoie une requête GET sur /flag et affiche la réponse dans le terminal.
 
 curl -L -s -o evidence/flag.txt "https://54018434-84e6-41eb-ad83-b0c881caa772-00-3l5mcm1594fnm.riker.replit.dev//flag"
-
 Envoie une requête GET sur /flag et créer un fichier "flag.txt" avec le flag a l'interieur.
