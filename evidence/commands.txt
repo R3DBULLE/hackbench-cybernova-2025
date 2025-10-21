@@ -1,0 +1,6 @@
+curl https://b452551e-a583-4f7f-9c74-32ac1b2fd606-00-105vtajd5ey1c.spock.replit.dev
+
+
+
+
+curl https://b452551e-a583-4f7f-9c74-32ac1b2fd606-00-105vtajd5ey1c.spock.replit.dev/flag
